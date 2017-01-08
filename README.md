@@ -1,2 +1,2 @@
 # WordsSearch-Kryptolekso
-Join letters to create words from an existing word corpus. This edition is experimented
+Game for joining table's letters to create words from an existing word corpus, using tables rearrangements options. This edition is experimented
